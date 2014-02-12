@@ -1,12 +1,8 @@
-# ltest
-
-FIXME
+# Clojure Lobos Test
 
 ## Prerequisites
 
-You will need [Leiningen][1] 2.0 or above installed.
-
-[1]: https://github.com/technomancy/leiningen
+* Leiningen: 2.3.4
 
 ## Running
 
@@ -16,4 +12,6 @@ To start a web server for the application, run:
 
 ## License
 
-Copyright © 2014 FIXME
+[MIT](http://opensource.org/licenses/MIT)
+
+Copyright 2014 ka
